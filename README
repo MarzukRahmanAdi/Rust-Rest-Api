@@ -1,0 +1,7 @@
+
+# Rust Rest Api (CRUD)
+
+## A Crud api with Actix, Sqlx and Postgresql. 
+
+A notes fetching, creating, updating and deleting backend rest api.
+
